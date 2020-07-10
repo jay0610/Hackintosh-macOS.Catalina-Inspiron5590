@@ -40,5 +40,5 @@ This can be done in below steps:
   8. Optional but recommendded to enable the SIP after work is done.
 
 
-thanks!!
+Thanks!!
 
