@@ -1,6 +1,18 @@
 # macOS.Catalina.Hackintosh.on.Dell.Lattitude.5590
 MacOS Catalina Hackintosh Built on Dell Lattitude 5590 Model 
 
+My Laptop Configuration
+
+* SSD: SK hynix SC311 SATA 256GB
+* Processor: 2.6 GHz Dual-Core Intel Core i3
+* Graphics: Intel HD Graphics CFL CRB 1536 MB
+    Display:
+    Resolution:	1920x1080 (1080p FHD - Full High Definition)
+    UI Looks like:	1920 x 1080 @ 60 Hz
+    VRAM (Dynamic, Max):	1536 MB
+* RAM : 20 GB (4GB soldered onboard + 16 GB)
+
+
 What is working ?
 
 + Display with FHD resolution: Onboard graphics UHD630
@@ -13,8 +25,8 @@ What is working ?
     In my case battery of the laptop was draining fast due to issue that processor was always running into Turbo Boost mode. 
     I disabled the same from Bios and since then my laptop give easily 4-4.5 hours of battery life after tunning the running services.
 + Brightness Controller
-
-
++ USB2/3 Ports, TypeC ports, SD-Card Reader Port
++ Screen off after inactivity
 
 What is not working ?
 
@@ -23,7 +35,7 @@ What is not working ?
   I am using D-Link DWA-131 Wireless N Nano USB Adapter (Black).
 - Audio on internal laptop speaker
   Note: (Workaround) : Since bluetooth is working absolutely fine, I use external bluetooth speakers. (Sorry, if you think this can't be workaround). 
-
+- HDMI port (So not working dual display)
 
 Very important Note !! 
 
@@ -38,7 +50,6 @@ This can be done in below steps:
   6. Connect DWA-131 USB adapter and it will automatically scan, to show you available SSIDs.
   7. Connect yours and enjoy !!
   8. Optional but recommendded to enable the SIP after work is done.
-
-
+  
 Thanks!!
 
