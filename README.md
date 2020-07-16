@@ -54,6 +54,9 @@ This can be done in below steps:
   
 Thanks!!
 
+**### About mac:**
+
+![About](https://user-images.githubusercontent.com/50524850/87631318-bb31ba00-c754-11ea-9297-018be1cb8ac6.png)
 
 
 
