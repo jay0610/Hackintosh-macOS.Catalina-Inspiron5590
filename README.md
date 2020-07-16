@@ -54,9 +54,12 @@ This can be done in below steps:
   
 Thanks!!
 
-**### About mac:**
+** About this build mac:**
 
 ![About](https://user-images.githubusercontent.com/50524850/87631318-bb31ba00-c754-11ea-9297-018be1cb8ac6.png)
+
+![icons](https://user-images.githubusercontent.com/50524850/87631594-4612b480-c755-11ea-8ebe-58fe39d753ab.png)
+
 
 
 
