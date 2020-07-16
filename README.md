@@ -57,5 +57,5 @@ Thanks!!
 Some Screenshots for reference.
 
 
-!/Users/jayrathod/Desktop/About.png
+![alt text] /Users/jayrathod/Desktop/About.png
 
