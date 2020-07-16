@@ -27,13 +27,14 @@ What is working ?
 + Brightness Controller
 + USB2/3 Ports, TypeC ports, SD-Card Reader Port
 + Screen off after inactivity
++ Audio on internal laptop speaker
 
 What is not working ?
 
 - Wifi 
   Note: (Workaround) : Bought a new USB Wifi dongle and installed the latest version of software from https://github.com/chris1111/Wireless-USB-Adapter,
   I am using D-Link DWA-131 Wireless N Nano USB Adapter (Black).
-- Audio on internal laptop speaker
+
   Note: (Workaround) : Since bluetooth is working absolutely fine, I use external bluetooth speakers. (Sorry, if you think this can't be workaround). 
 - HDMI port (So not working dual display)
 
