@@ -60,6 +60,9 @@ Thanks!!
 
 ![icons](https://user-images.githubusercontent.com/50524850/87631594-4612b480-c755-11ea-8ebe-58fe39d753ab.png)
 
+![BT](https://user-images.githubusercontent.com/50524850/87631896-e668d900-c755-11ea-8c60-0df84f90a19a.png)
 
+![Laptop-internal-Speakers](https://user-images.githubusercontent.com/50524850/87632051-39db2700-c756-11ea-9d6a-ed34e371717f.png)
 
+![Uploading Brightness.png…]()
 
